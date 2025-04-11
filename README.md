@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://linkedin.com/in/shubhanshumishra" target="_blank">
       
-    <img src="https://in.linkedin.com/in/shubhanshu-mishra-4008a71b9" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
 </div>
