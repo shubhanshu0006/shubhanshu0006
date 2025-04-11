@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/shubhanshu0006/count.svg" alt="Visitor's Count" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Shubhanshu+Mishra!;Software+Engineer+%7C+Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Shubhanshu+Mishra!;Software+Engineer+%7C+Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
