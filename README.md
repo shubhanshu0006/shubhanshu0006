@@ -40,3 +40,31 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+
+
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhanshu0006&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshu0006&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhanshu0006&theme=onestar&no-frame=true" />
+</p>
+
+---
