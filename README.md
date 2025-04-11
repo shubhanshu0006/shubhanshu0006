@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 🌱 I’m currently learning AI/ML
+- 💬 Ask me about **Python, Django,React, FastAPI, AWS,Docker, ...
 
 <br>
 
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/shubhanshumishra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+      
+    <img src="https://in.linkedin.com/in/shubhanshu-mishra-4008a71b9" target="_blank" />
   </a>
   
 </div>
