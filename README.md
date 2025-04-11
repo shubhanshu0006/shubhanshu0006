@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Shubhanshu+Mishra!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=3F9FFF&center=true&vCenter=true&width=700&height=100&lines=Hi+there!+👋;I'm+Shubhanshu+Mishra.;Software+Engineer+%7C+Open+Source+Contributor;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
