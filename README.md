@@ -19,12 +19,9 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/shubhanshu0006/count.svg" alt="Visitor's Count" />
 </div>
 
-<div align="center">
-  <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_qp1q7mct.json"  background="transparent"  speed="1"  style="width: 150px; height: 150px;"  loop autoplay></lottie-player>
-  <h1>Hi there! 👋 I'm Shubhanshu Mishra</h1>
-</div>
-
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Shubhanshu+Mishra!;Software+Engineer+%7C+Open+Source+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
